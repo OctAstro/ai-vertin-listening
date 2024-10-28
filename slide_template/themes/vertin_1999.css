@@ -1,0 +1,29 @@
+/*
+@theme vertin_1999
+@size 16:9 3840px 2160px
+*/
+
+
+@import 'default';
+@import "vertin_1999_cover";
+@import "vertin_1999_paragraph";
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Noto+Serif+SC:wght@200..900&display=swap');
+
+section {
+    font-family: "Noto Serif SC";
+    font-weight: 600;
+    padding-right: 25%;
+    background-image: url("./images/bg.png"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #333;
+}   
+
+a{
+    color:#246;
+}
+
+p{
+    text-indent: 2em;
+}

@@ -1,0 +1,53 @@
+Robot team leads the way.
+
+China clinches gold as part of international student alliance in competition at the home of the Olympics, Cheng Yuezhu reports.
+
+Athens, a city in Greece steeped in Olympic history, once again welcomed a global gathering of young talent last month. This time, it wasn't athletes but young innovators representing 193 countries and regions, who converged for the 2024 FIRST Global Challenge.
+
+Representing Team China in this annual international robotics competition was a group of 13 senior middle school students, who demonstrated their technological ingenuity in an arena of friendly competition and intercultural exchange.
+
+After 18 matches over three rounds between Sept 26 and 29, the team brought home multiple accolades. They clinched gold as a member of the FIRST Global Winning Alliance alongside Moldova, Madagascar and the Cook Islands, the second consecutive year Team China has won the prize. They also won bronze in the Albert Einstein Award for FIRST Global International Excellence, and bronze in the FIRST Global Grand Challenge Award.
+
+Hosted in a different country each year, and this year in its eighth iteration, the FIRST Global Challenge invites youth from around the world to represent their country or region. Each team programs and builds a robot to complete tasks related to a pressing global issue, such as climate change or energy production.
+
+This year's theme was Feeding the Future, which tasked the competitors to design robots capable of simulating sustainable food production processes, and come up with technological solutions to improve global food security.
+
+"If we hope to protect the natural environment and reduce the pressure on food production, we must conserve food and develop more sustainable ways of crop cultivation," says Zhang Junshu, a 16-year-old student at the Beijing National Day School, and a member of the Chinese team.
+
+Another member, 17-year-old Zhao Wenjin, from the High School Affiliated to Renmin University of China, believes that robotics has vast potential use in agriculture and livestock farming. "Robots can substantially increase both quantity and quality of food products, contributing to sustainable food production. Robotics and artificial intelligence technology can also play a crucial role in reducing waste," Zhao says.
+
+The students designed a robot shaped like a 50-centimeter cube to complete the task. In the matches, the team was required to make their robot transport green balls, representing energy, and blue balls, representing water, into designated containers. When both were placed in the correct containers, they produced yellow balls representing food, which then had to be transported to another designated area to score points.
+
+Zhao says that the most impressive moment came in the final stage of each match, when the robots had to mount a balancing platform for bonus points. The more robots that successfully mounted, the higher the bonus points for both alliances, which means that collaboration was necessary if all robots were to balance on the platform successfully.
+
+"Before each match, we would discuss tactics and arrangements with our opponents. I remember that before the final match, our alliance and our opposing alliance cheered each other on, hoping that we could all successfully get onto the platform," Zhao says.
+
+These moments of teamwork and friendship beyond alliance lines prevailed throughout the competition. Before going to Greece, the team held online meetings with other teams, during which they introduced the Chinese food, art and famous historical sites.
+
+"Our team designed badges and stickers with prints of pandas and other well-known animals. Before the competition, we communicated with other teams, and talked about China's landmarks and cultural heritage. The interactions were wonderful," Zhang says. "Every team brought their own personality and warmth. They told me about their cultures, and we exchanged cute accessories. It was memorable."
+
+Chinese team members frequently offered help to other teams in need. Wang Boquan, a 17-year-old from the Beijing No 4 High School, spoke of a touching episode that left him with a deep impression.
+
+"Due to visa issues, most members of Team Afghanistan couldn't make it. Only a 14-year-old girl, her mother and a mentor were able to attend. Since they needed four members — two drivers, a coach and a human player — I didn't hesitate to join as their human player, and modified the controls so that the girl could operate the robot alone," Wang says.
+
+The day before the competition, judges found that Team Afghanistan's robot exceeded the size limit, and disassembled it. Since the girl lacked mechanical knowledge, the Chinese participants helped solve the problem, and reassembled the robot, making sure it could compete.
+
+Throughout the competition, Wang balanced helping the Afghan team with supporting his own. "In the final qualification match, Team China and Team Afghanistan were paired as teammates, with me joining Team Afghanistan. It was an unforgettable experience. I never thought I'd be competing representing two countries," Wang recalls.
+
+The Chinese team's mentor He Xuguo, who has been in charge of FIRST Global Challenge matches in China since 2017, was recognized with an Outstanding Mentor award. He says that he is more like a team member than a supervisor, and stresses the students' independence and innovation.
+
+"At first glance, the robot might seem beyond the capacity of high school students to make, but looking at their notes, you can see how it grew into its final form. Each subsystem went through at least four iterations," he says.
+
+In addition to the fundamental skills of robot design and construction, robotics contests are also a test of teamwork, empathy, creativity and originality.
+
+He says that it is essential to prioritize creativity over rigid instruction. While allowing the students to take ownership of their projects, he offers suggestions, assesses the feasibility of their ideas, and manages the schedule to help them realize their vision.
+
+Outside the competition, the team remains committed to sharing their successful experience and to facilitating robotics activities.
+
+"We open-sourced our robot's code and designs immediately after the competition, in the hopes of helping more teams engage in technological activities," He says.
+
+After returning to China, they have developed plans to help robotics clubs make progress, including creating and publishing tutorials on social media platforms, and reaching out to socially responsible companies to engage in STEM (science, technology, engineering and mathematics) activities.
+
+"Competing alongside teams from over 190 countries and regions allowed the students to see the world's disparities and the different levels of educational resources. Our students come from Beijing's premier schools and have access to exceptional educational opportunities, and this competition has broadened their horizons," He says.
+
+"As beneficiaries of China's initiative of promoting scientific literacy, our students now shoulder part of the responsibility of promoting technology education. We hope their influence will help mobilize more social resources to advance science and technology education across China."

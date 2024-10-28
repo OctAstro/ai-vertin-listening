@@ -1,0 +1,46 @@
+/* @theme vertin_1999_cover */
+
+.cover_p p{
+    text-indent: 0 !important;
+}
+
+.title{
+    padding-bottom: 1em;
+}
+
+section.cover blockquote p{
+    text-indent: 0 !important;
+    font-family: "Fira Code";
+    font-weight: 500;
+    font-size: 1.9em;
+}
+
+.EN_title, .CN_title{
+    padding:0;
+    margin:.1em 0 0 0;
+    font-weight: 800;
+    color:#246;
+    font-size: 3em;
+}
+
+.head{
+    margin:0; 
+}
+
+.brand{
+    color:#333;
+    font-weight: 800;
+    font-size: 1.6em;
+    padding-bottom: 0;
+}
+
+.source{
+    padding-bottom: .5em;
+    font-weight: 700;
+    font-size: 2.5em;
+}
+
+.copyright{
+    font-size: .95em;
+    color:rgba(3,3,3,0.75)
+}

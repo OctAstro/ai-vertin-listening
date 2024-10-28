@@ -1,0 +1,7 @@
+{
+    "markdown.marp.themes": [
+      "./themes/vertin_1999.css",
+      "./themes/modules/cover.css",
+      "./themes/modules/paragraph.css"
+    ]
+}

@@ -1,0 +1,24 @@
+/* @theme vertin_1999_paragraph */
+
+
+section.para {
+    font-family: "Noto Serif SC";
+    font-weight: 600;
+    margin: 0;
+    padding-right: 20%;
+    color: #333;
+}
+
+section.para h2{
+    padding:0;
+    margin:0 0 0 0;
+    font-weight: 800;
+    color: #246;
+    font-size: 1.5em;
+}
+
+section.para h3{
+    font-size: 1.25em;
+    font-weight: 700;
+    color:rgba(0,0,0,0.75)
+}
