@@ -2,13 +2,14 @@
 marp: true
 theme: vertin_1999
 paginate: false
+size: 16:9
 ---
 
 
 <!-- _class: cover -->
 
 <div class="head">
-    <h1 class="brand">「BRAND」</h1>
+    <h1 class="brand">「AI VERTIN」</h1>
 </div>
 
 <div class="title">
@@ -43,7 +44,7 @@ Lorem ipsum dolor sit amet, docendi mnesarchum mea ut, in has integre comprehens
 <div class="title">
     <h1 class="EN_title">制作: 汐琥XiHu_</h1>
 </div>
-<span class="source">使用 so-vits-svc 制作</span>
+<span class="source">使用音声转换项目制作</span>
 
 <div class="cover_p">
 
@@ -55,4 +56,3 @@ Lorem ipsum dolor sit amet, docendi mnesarchum mea ut, in has integre comprehens
 本视频仅供学习使用，如有侵权请联系本人删除。
 可能造成的后果与使用的音声转换项目的作者、贡献者无关。
 </div>
-

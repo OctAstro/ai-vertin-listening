@@ -17,7 +17,7 @@ paginate: false
 </div>
 <span class="source">China Daily | 中国日报</span>
 
-> https://www.chinadaily.com.cn/a/202410/26/WS671c4005a310f1265a1c9c40_1.html
+> https://www.chinadaily.com.cn/a/202410/26/WS671c4005a310f1265a1c9c40.html
 
 <h3 class="copyright">翻译仅供参考，文章版权归原版权方所有，本视频仅供学习使用</h3>
 

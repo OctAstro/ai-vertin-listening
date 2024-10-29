@@ -1,26 +1,18 @@
 /* @theme vertin_1999_cover */
 
-.cover_p p{
+.content p{
     text-indent: 0 !important;
-    font-size: 2.5em;
 }
 
 .title{
-    padding-bottom: .5em;
+    padding-bottom: 1em;
 }
 
-section.cover{
-    font-size: 29px !important; 
-}
-
-section.cover blockquote{
-    border-left: .75em solid var(--color-border-default);
-}
 section.cover blockquote p{
     text-indent: 0 !important;
     font-family: "Fira Code";
     font-weight: 500;
-    font-size: 2.85em;
+    font-size: 1.9em;
 }
 
 .EN_title, .CN_title{
@@ -28,7 +20,7 @@ section.cover blockquote p{
     margin:.1em 0 0 0;
     font-weight: 800;
     color:#246;
-    font-size: 4.5em;
+    font-size: 3em;
 }
 
 .head{
@@ -38,17 +30,24 @@ section.cover blockquote p{
 .brand{
     color:#333;
     font-weight: 800;
-    font-size: 2.40em;
+    font-size: 1.6em;
     padding-bottom: 0;
 }
 
 .source{
     padding-bottom: .5em;
     font-weight: 700;
-    font-size: 3.75em;
+    font-size: 2.5em;
+}
+
+.date{
+    padding-bottom: .5em;
+    font-weight: 900;
+    font-size: 1.5em;
+    color:rgba(33,33,33)
 }
 
 .copyright{
-    font-size: 2.5em;
-    color:rgba(3,3,3,0.75)
+    font-size: .95em;
+    color:rgba(33,33,33,0.75)
 }

@@ -1,6 +1,7 @@
 /*
-@theme vertin_1999
-@size 16:9 3840px 2160px
+@theme vertin_cover
+@size 4:3 1920px 1440px
+@size 16:9 1920px 1440px
 */
 
 
@@ -13,14 +14,13 @@
 section {
     font-family: "Noto Serif SC";
     font-weight: 600;
-    padding: 235.5px;
-    padding-right: 28%;
-    background-image: url("./images/bg.png"); 
+    padding-right: 50%;
+    padding-left: 157px;
+    background-image: url("images/bg.png"); 
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: auto 100%;
+    background-position: right;
     color: #333;
-    
-    font-size: 87px;
 }   
 
 a{
